@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Punk Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/815.jpeg"
+  },
+
+  {
+    "name": "Keara",
+    "image": "https://rickandmortyapi.com/api/character/avatar/190.jpeg"
+  },
+
+  {
+    "name": "Evil Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/118.jpeg"
+  }
+]

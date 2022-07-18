@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "",
+      "url": "https://api-rickandmorty-iorgeanjoss.onrender.com",
       "description": "API Produção"
     },
     {
